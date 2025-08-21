@@ -1,0 +1,7 @@
+.cache
+.DS_Store
+.gitignore
+.vscode
+compile_commands.json
+build
+*.orig
